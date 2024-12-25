@@ -49,7 +49,7 @@ Installation/Access Instructions:
 
 Open the deployed application directly using the following deployment link on vercel:
 
-https://ite-18-zombieshit-iaiaakf20-trystanns-projects.vercel.app
+https://ite-18-zombieshit-git-main-trystanns-projects.vercel.app
 
 
 No further installation is required, the application runs directly in the browser.
