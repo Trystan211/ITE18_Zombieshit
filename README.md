@@ -3,10 +3,14 @@ Project Documentation
 Team Members and Their Roles:
 
 Tristan Rhyl C. Penaso- Main Developer -Responsible for all aspects of the project including UI development, animations, interactivity, and deployment.
+
 Kevin Dela Torre Melendrez - Asset Developer - Provides assets and feedback during project development.
+
 Rhyan Banac R Banac - Testing Developer - Assists with testing and gives user based experience suggestions.
 
+
 Story:
+
 This project is an interactive game environment designed for users to engage with animations and a customizable canvas. 
 The goal is to provide an immersive and visually appealing zombie game experience, leveraging modern web technologies to achieve seamless interactivity and responsiveness. 
 The story takes place in an aftermath of a mysterious viral outbreak, the world has plunged into chaos. Once-thriving cities are now desolate wastelands crawling with the undead. 
