@@ -30,20 +30,31 @@ Concepts:
 
 
 Development Stack
+
 Frontend:
+
 HTML for structure.
+
 CSS for styling and animations.
+
 JavaScript for interactivity and canvas rendering.
 
+
 Libraries/Frameworks:
+
 None.
 
 Deployment:
+
 Vercel for hosting and deployment.
 
+
 Installation/Access Instructions:
+
 Open the deployed application directly using the following deployment link on vercel:
+
 https://ite-18-zombieshit-iaiaakf20-trystanns-projects.vercel.app
+
 
 No further installation is required, the application runs directly in the browser.
 
