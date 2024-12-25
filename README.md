@@ -40,13 +40,9 @@ CSS for styling and animations.
 JavaScript for interactivity and canvas rendering.
 
 
-Libraries/Frameworks:
+Libraries/Frameworks: None.
 
-None.
-
-Deployment:
-
-Vercel for hosting and deployment.
+Deployment: Vercel for hosting and deployment.
 
 
 Installation/Access Instructions:
