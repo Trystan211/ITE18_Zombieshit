@@ -10,6 +10,7 @@ Rhyan Banac R Banac - Testing Developer - Assists with testing and gives user ba
 
 
 
+
 Story:
 
 This project is an interactive game environment designed for users to engage with animations and a customizable canvas. 
@@ -20,9 +21,13 @@ As the game progresses, the stakes grow higher. The zombies become faster, smart
 This is a game still very early in it's development and is mainly made to be passed as our ITE18 Final Project.
 
 Concepts:
+
 -Zombie shooter game with waves of enemies.
+
 -Dynamic animations, including walking, flashing, and glitch effects.
+
 -Responsive design and fluid user interactions.
+
 
 Development Stack
 Frontend:
