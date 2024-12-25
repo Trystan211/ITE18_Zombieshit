@@ -2,6 +2,8 @@ Project Documentation
 
 Team Members and Their Roles:
 
+SECTION: KM1 - GROUP 7
+
 Tristan Rhyl C. Penaso- Main Developer -Responsible for all aspects of the project including UI development, animations, interactivity, and deployment.
 
 Kevin Dela Torre Melendrez - Asset Developer - Provides assets and feedback during project development.
