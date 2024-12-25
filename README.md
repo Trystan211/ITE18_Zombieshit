@@ -20,9 +20,9 @@ As the game progresses, the stakes grow higher. The zombies become faster, smart
 This is a game still very early in it's development and is mainly made to be passed as our ITE18 Final Project.
 
 Concepts:
+-Zombie shooter game with waves of enemies.
 -Dynamic animations, including walking, flashing, and glitch effects.
 -Responsive design and fluid user interactions.
--Utilization of Modernizr for feature detection and compatibility.
 
 Development Stack
 Frontend:
