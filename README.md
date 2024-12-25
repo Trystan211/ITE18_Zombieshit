@@ -1,6 +1,7 @@
 Project Documentation
 
 Team Members and Their Roles:
+
 Tristan Rhyl C. Penaso- Main Developer -Responsible for all aspects of the project including UI development, animations, interactivity, and deployment.
 Kevin Dela Torre Melendrez - Asset Developer - Provides assets and feedback during project development.
 Rhyan Banac R Banac - Testing Developer - Assists with testing and gives user based experience suggestions.
