@@ -9,6 +9,7 @@ Kevin Dela Torre Melendrez - Asset Developer - Provides assets and feedback duri
 Rhyan Banac R Banac - Testing Developer - Assists with testing and gives user based experience suggestions.
 
 
+
 Story:
 
 This project is an interactive game environment designed for users to engage with animations and a customizable canvas. 
